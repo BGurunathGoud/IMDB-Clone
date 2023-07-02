@@ -4,10 +4,10 @@
 
 ## Technologies used are
 
-+ HTML
-+ CSS
-+ JavaScript
-+ OMDB API
++ ### HTML
++ ### CSS
++ ### JavaScript
++ ### OMDB API
 
 ## Working Process of this Application :-
 By using this application user is able to search for movies and able to view the movies information in it. 
