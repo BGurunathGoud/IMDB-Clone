@@ -22,3 +22,5 @@ By using this application user is able to search for movies and able to view the
 7. User by clicking on "back to home" button, User should be directed to Home Page. 
        
 ## Application Link
+***
+#### https://bgurunathgoud.github.io/IMDB-Clone/
